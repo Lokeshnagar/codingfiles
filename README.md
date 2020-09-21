@@ -64,7 +64,7 @@
       <div class="container">
         <h1>Title of this section</h1>
         <p class="lead">Use this document as a way to quickly start any new project.<br>
-          All you get is this text and a mostly barebones HTML document.</p>
+         lokesh nagar </p> <!--add this new commment-->
       </div>
 
     </main><!-- /.container -->
